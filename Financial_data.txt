@@ -1,0 +1,39 @@
+=== ACCOUNTS RECEIVABLE - Q4 2024 ===
+Client: Constructora Norteña S.A.
+Invoice: INV-2024-0892
+Amount: $145,000 USD
+Due Date: 10/31/2024
+Status: OVERDUE - 45 days past due
+Contact: Carlos Mendoza - cmendoza@cnortena.com
+
+Client: Retail Express LLC
+Invoice: INV-2024-0901
+Amount: $67,500 USD
+Due Date: 11/14/2024
+Status: PAID on 11/10/2024
+
+Client: Logistica del Pacifico
+Invoice: INV-2024-0923
+Amount: $230,000 USD
+Due Date: 12/01/2024
+Status: PENDING - 12 days until due
+
+=== BUDGET VS ACTUAL - Q4 2024 ===
+Department: Operations
+Budget: $500,000 USD
+Actual Spend: $487,200 USD
+Variance: -$12,800 USD (2.6% under budget)
+End of Q4 Forecast: $502,100 USD
+
+Department: Marketing
+Budget: $120,000 USD
+Actual Spend: $134,500 USD
+Variance: +$14,500 USD (12.1% OVER budget)
+Alert: CFO approval required
+
+=== CASH FLOW - NOVEMBER 2024 ===
+Opening Balance: $1,240,000 USD
+Projected Inflows: $890,000 USD
+Projected Outflows: $760,000 USD
+Projected Balance: $1,370,000 USD
+Liquidity Days: 47 days
